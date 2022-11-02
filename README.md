@@ -1,2 +1,2 @@
 # Freeswitch-Callbacks
-Storing missed calls for callbacks using Verto WebRTC
+Storing missed calls and perform callbacks using Verto WebRTC
